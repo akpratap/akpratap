@@ -49,6 +49,14 @@ I have a Bachelor's of Engineering degree in Computer Science & Technology from 
 - Career Growth
 - Music
 
+### Github
+<a href="https://github.com/akpratap">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akpratap&mode=weekly" />
+</a>
+<a href="https://github.com/akpratap">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akpratap&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akhileshpratap-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/akhilesh-pratap/)
